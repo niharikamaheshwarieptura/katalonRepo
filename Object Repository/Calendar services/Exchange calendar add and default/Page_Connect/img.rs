@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>512b3e75-95c1-4f75-96a6-349e9484a585</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.custom-radio > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-content-wrapper']/calendarsettings/div/div[4]/div[2]/calendarsettingsdetail/div/div/div[2]/form/div/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>af3d02c9-f79b-4222-b284-2063f53f26a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/MS_Exchange_large.svg</value>
+      <webElementGuid>2fd60114-32a1-49cc-83a6-c2c53d89eaad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-content-wrapper&quot;)/calendarsettings[1]/div[@class=&quot;pageAnimation&quot;]/div[@class=&quot;panel panel-default accountDetail&quot;]/div[@class=&quot;panel-body&quot;]/calendarsettingsdetail[1]/div[@class=&quot;pageAnimation&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row rowBottomBorder&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;col-md-8 col-md-offset-2 calendar-service-container&quot;]/div[@class=&quot;calendar-service-block&quot;]/div[@class=&quot;custom-radio&quot;]/img[1]</value>
+      <webElementGuid>c94c6377-31a9-4dc9-8cdd-92a0d67a9fc0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-content-wrapper']/calendarsettings/div/div[4]/div[2]/calendarsettingsdetail/div/div/div[2]/form/div/div/div/img</value>
+      <webElementGuid>7d6cc754-8d4e-4c4e-b9cd-0ed5e2025f25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/img</value>
+      <webElementGuid>a5ea6dad-9478-4460-97a5-657af62d532a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'assets/MS_Exchange_large.svg']</value>
+      <webElementGuid>4e3e8c33-65de-448a-a902-87c1ae43a508</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

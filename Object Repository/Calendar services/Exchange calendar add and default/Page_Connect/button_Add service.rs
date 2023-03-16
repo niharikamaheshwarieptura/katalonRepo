@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add service</name>
+   <tag></tag>
+   <elementGuidId>acd79204-4105-44d5-a48d-1ba071114a99</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#addServiceButton</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='addServiceButton']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>97984157-e553-43d1-b4b0-3d562c54fef4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>add-button btn btn-default pull-right </value>
+      <webElementGuid>b9e387cd-89b6-45eb-b4be-f78ea65486b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>addServiceButton</value>
+      <webElementGuid>febfeda9-4695-45b0-a319-895c790bffdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>567b9a82-a335-4c53-8a0d-d06befa7ae99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Add service
+                    </value>
+      <webElementGuid>18d6021b-365e-454d-bad4-1fbf58633e8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;addServiceButton&quot;)</value>
+      <webElementGuid>9cc8aadd-a402-4c2f-a6dc-98b57aba7bee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='addServiceButton']</value>
+      <webElementGuid>64910bbd-ea45-4d37-983b-821abd436fb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-content-wrapper']/calendarsettings/div/div[2]/div/div/div/button</value>
+      <webElementGuid>4600cc69-f5a2-448e-8fea-72c807dfda7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage your calendar service(s)'])[1]/following::button[1]</value>
+      <webElementGuid>42d84c52-ec87-4d1e-a686-ce453394d7a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TYPE'])[1]/preceding::button[1]</value>
+      <webElementGuid>70ba5018-d633-4fa7-9a18-7b109e9ccaa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NAME'])[1]/preceding::button[1]</value>
+      <webElementGuid>0e58e743-1fb6-45be-8b57-d8077b7eb8be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add service']/parent::*</value>
+      <webElementGuid>6a9c02a4-b11f-4b4c-88e4-99293b892875</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/button</value>
+      <webElementGuid>fecdda2a-aab4-4a0c-9f17-3107b7fa3045</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'addServiceButton' and @type = 'button' and (text() = '
+                        Add service
+                    ' or . = '
+                        Add service
+                    ')]</value>
+      <webElementGuid>24f6fd58-b0e4-40d3-8db5-b23e6c7fb3f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

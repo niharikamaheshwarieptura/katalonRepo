@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_SET AS DEFAULT_deleteBtn</name>
+   <tag></tag>
+   <elementGuidId>3c62ab5a-5584-4774-ab2b-3ea7556f6591</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr.enterprise > td.delete.pull-right > #deleteBtn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@id='deleteBtn'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3355f8a0-d9b4-411d-aa22-f27d4c64f880</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn lnr lnr-trash deleteBtn</value>
+      <webElementGuid>f9685c79-2a17-4a70-bcd3-ac15fe6e64db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>deleteBtn</value>
+      <webElementGuid>84c2eec6-3dcb-47c2-9fdd-d791887fc6b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;calendarList&quot;)/tbody[1]/tr[@class=&quot;enterprise&quot;]/td[@class=&quot;delete pull-right&quot;]/button[@id=&quot;deleteBtn&quot;]</value>
+      <webElementGuid>fd5b9fb2-d704-4b20-908e-46c4074a5a59</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@id='deleteBtn'])[2]</value>
+      <webElementGuid>b715444c-0288-4e4d-833e-07431799a7cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='calendarList']/tbody/tr[2]/td[4]/button</value>
+      <webElementGuid>5eb3729c-3f67-4304-9abb-5d6b9f704953</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SET AS DEFAULT'])[1]/following::button[1]</value>
+      <webElementGuid>e44bcdbc-60ce-43a7-a6eb-cb2d954058ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon enterprise'])[1]/following::button[2]</value>
+      <webElementGuid>21dbd432-35e8-4121-b6d4-f16a65e3a4c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::button[1]</value>
+      <webElementGuid>cb7ee800-eae6-4f9d-8f7c-580256ccec44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[2]/preceding::button[2]</value>
+      <webElementGuid>276901f6-8158-47de-9a29-f1e29bb24580</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[4]/button</value>
+      <webElementGuid>bd613cd6-fbea-4ecf-9e0f-bfebc5529250</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'deleteBtn']</value>
+      <webElementGuid>541509c2-cd3f-4c24-ba79-ae504f89eb69</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

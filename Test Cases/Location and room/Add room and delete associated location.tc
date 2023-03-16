@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add room and delete associated location</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3d84de8b-5066-49fd-9905-13b46dedfeb7</testCaseGuid>
+</TestCaseEntity>

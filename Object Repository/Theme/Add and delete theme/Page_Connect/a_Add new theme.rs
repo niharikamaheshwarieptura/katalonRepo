@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add new theme</name>
+   <tag></tag>
+   <elementGuidId>67fef41b-b597-4950-ab8c-97cd64793157</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#addNewScreenTheme</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='addNewScreenTheme']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a08a2d7d-5d1d-4f20-9828-3b31a21551a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>add-button btn btn-default pull-right</value>
+      <webElementGuid>c7fb0b6d-96a7-46ce-abb8-37f7b32b8241</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>addNewScreenTheme</value>
+      <webElementGuid>39ed5ad5-5a01-4b52-b2a1-30789ac796f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Add new</value>
+      <webElementGuid>a5700521-fa4a-4f19-9dc2-38e6feab5af7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add new theme</value>
+      <webElementGuid>9826a789-7755-4010-9b61-8d0ebc6592b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-content-wrapper&quot;)/screenthemes[1]/div[@class=&quot;pageAnimation&quot;]/div[@class=&quot;content-heading&quot;]/h1[1]/div[1]/a[@id=&quot;addNewScreenTheme&quot;]</value>
+      <webElementGuid>340fe1b9-22ac-4a97-a686-8cf1d0a0770b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='addNewScreenTheme']</value>
+      <webElementGuid>b3396a3d-4a67-4815-8f44-75b6263d8684</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-content-wrapper']/screenthemes/div/div/h1/div/a</value>
+      <webElementGuid>e10acd02-1e27-46ce-b0fc-2f128bdf0610</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Add new theme')]</value>
+      <webElementGuid>f7bc6676-c101-4ed4-9d0a-32116db93230</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle navigation'])[1]/following::a[2]</value>
+      <webElementGuid>c49a2947-d2e0-4050-afa7-de6ed2832c1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customise the look of your Room screens'])[1]/preceding::a[1]</value>
+      <webElementGuid>cc81077f-11ed-4a23-b6e8-f6c58ca4c697</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter themes'])[1]/preceding::a[1]</value>
+      <webElementGuid>69a99118-4605-4b7e-bac0-96d5aad69c12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add new theme']/parent::*</value>
+      <webElementGuid>36cead1d-aa02-40dc-899a-d20c00a57264</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/div/a</value>
+      <webElementGuid>a08774b0-716b-4cd7-8328-371598e40d18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'addNewScreenTheme' and (text() = 'Add new theme' or . = 'Add new theme')]</value>
+      <webElementGuid>25bcd0f4-f1ff-4449-9d98-aad63b3901e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

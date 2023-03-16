@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Global Administrator</name>
+   <tag></tag>
+   <elementGuidId>d6f34545-2c52-4550-96db-b745cf538ceb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.radioButtonLabel</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-content-wrapper']/users/div/div[5]/div[2]/userdetail/div/form/div[5]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>5555ba03-955a-4a39-b4e1-4cb0d96826f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>radioButtonLabel</value>
+      <webElementGuid>0280c0e9-63d5-4b7a-b5ef-91ccd9dc7025</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>userRoleAdmin</value>
+      <webElementGuid>c6646502-5737-491e-afa3-edd4ddf74790</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Global Administrator</value>
+      <webElementGuid>77423824-d5b9-4141-9913-54be1fbb3152</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-content-wrapper&quot;)/users[1]/div[@class=&quot;pageAnimation&quot;]/div[@class=&quot;panel panel-default&quot;]/div[@class=&quot;panel-body&quot;]/userdetail[1]/div[@class=&quot;pageAnimation&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;custom-radio&quot;]/label[@class=&quot;radioButtonLabel&quot;]</value>
+      <webElementGuid>b5130b52-61a6-439e-9f6e-2dd733446a17</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-content-wrapper']/users/div/div[5]/div[2]/userdetail/div/form/div[5]/div/label</value>
+      <webElementGuid>92b90d77-d319-421c-8889-19b0cc61f698</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role'])[2]/following::label[1]</value>
+      <webElementGuid>91fcd367-b907-4f9d-8956-3afd08fccfdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile phone number'])[1]/following::label[2]</value>
+      <webElementGuid>6c4b9d76-7b49-4436-b697-3cd200bda335</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='An administrator has access to all levels of the location hierarchy.'])[1]/preceding::label[1]</value>
+      <webElementGuid>d07227c0-b1ba-48e5-ab43-d9ebdeb8f062</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country Administrator'])[1]/preceding::label[2]</value>
+      <webElementGuid>8dc32de4-2174-4b0d-aae8-8f69b4f27b0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/label</value>
+      <webElementGuid>2c8b6ff3-2c9a-4f32-8819-907de5ec5d1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Global Administrator' or . = 'Global Administrator')]</value>
+      <webElementGuid>681773e1-28b1-4ee0-ae41-08da3b58a8af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

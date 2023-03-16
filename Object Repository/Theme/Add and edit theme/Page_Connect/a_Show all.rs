@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Show all</name>
+   <tag></tag>
+   <elementGuidId>5e919a15-a1f7-4662-90dc-456c6bc95050</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#showAll</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='showAll']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d0c790d9-16de-4366-ab27-082cf99c21d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default pull-right btn-show</value>
+      <webElementGuid>96def8f4-c2ed-4b19-a0b5-f7330b9265d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>showAll</value>
+      <webElementGuid>7af02c2b-1913-4ea9-9e80-b78724334478</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Show all</value>
+      <webElementGuid>d1a00364-8982-46d9-9101-390ef3c26186</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Show all</value>
+      <webElementGuid>49eb51ee-61ed-44c3-86cb-7e45fa3c550b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;showAll&quot;)</value>
+      <webElementGuid>5e17455e-4736-43c7-8e5d-407948265b6e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='showAll']</value>
+      <webElementGuid>8c3eaed2-891d-4226-97b9-55f1f427b934</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-content-wrapper']/screenthemes/div/div[3]/div[4]/div/div[2]/div[3]/a</value>
+      <webElementGuid>68deee93-5730-4169-afe8-7ad6202179e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Show all')]</value>
+      <webElementGuid>2c2dc140-99e4-49aa-a79d-3f6931134dff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show next 8'])[1]/following::a[1]</value>
+      <webElementGuid>55f363fe-8b33-4eaf-baed-e90503e2e70a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show less'])[1]/following::a[2]</value>
+      <webElementGuid>30f3ea4f-27ba-464b-8f45-603eedf280dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country-level Themes'])[1]/preceding::a[1]</value>
+      <webElementGuid>2efdbe71-c448-4344-a899-a1b58c5c6109</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add country theme'])[1]/preceding::a[1]</value>
+      <webElementGuid>8da35cd4-bc3e-40b9-bdc8-26cd4b663c1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Show all']/parent::*</value>
+      <webElementGuid>b9f82226-0650-478f-ad41-e6f2f7035cc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a</value>
+      <webElementGuid>1c2b201d-b1ff-41e3-8d54-ba659818d316</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'showAll' and (text() = 'Show all' or . = 'Show all')]</value>
+      <webElementGuid>248487b1-177e-4f3a-8a01-22b29cfc4809</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
